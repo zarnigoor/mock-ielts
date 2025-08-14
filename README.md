@@ -4,11 +4,11 @@ Bu loyiha IELTS imtihoni uchun onlayn **mock test platformasi** bo‘lib, foydal
 Backend Node.js va Express’da, frontend esa React.js’da yozilgan. Ma’lumotlar bazasi sifatida MongoDB ishlatiladi. Docker yordamida barcha servislar konteynerlarda ishlaydi.
 
 ## Texnologiyalar
-- **Frontend:** React.js
-- **Backend:** Node.js + Express
-- **Database:** MongoDB
-- **API Docs:** Swagger
-- **Containerization:** Docker & Docker Compose
+- Frontend: React.js
+-Backend: Node.js + Express
+- Database: MongoDB
+- API Docs: Swagger
+- Containerization: Docker & Docker Compose
 
 ##  O‘rnatish va ishga tushirish
 
