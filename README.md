@@ -32,8 +32,8 @@ docker-compose up --build
 
 
 Docker konteynerlari ishga tushgandan so'ng:
-Swagger docs: http://localhost:5000/api-docs
-Backend API: http://localhost:5000
+Swagger docs: http://localhost:5001/api-docs
+Backend API: http://localhost:5001
 Frontend: http://localhost:3000
 
 
@@ -49,7 +49,7 @@ Frontend: http://localhost:3000
 `POST /admin/questions` → Yangi savol qo'shish
 `PUT /admin/questions/:id` → Savolni yangilash`DELETE /admin/questions/:id` → Savolni o'chirish
 
-To'liq API hujjati: [Swagger dokumentatsiya](http://localhost:5000/api-docs)
+To'liq API hujjati: [Swagger dokumentatsiya](http://localhost:5001/api-docs)
 
 
 ## Muallif
